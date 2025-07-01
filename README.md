@@ -86,10 +86,10 @@ My approach to executing this plan is built around core engineering values and g
 
 My immediate focus is on the workstreams of Phase 1. I am currently deep in Python fundamentals and my mathematics refresher curriculum.
 
-I am always open to networking with and learning from developers, engineers, and mentors in the relevant fields. Thank you for reading my initial plan; I invite you to follow along as I turn it into a reality. [The best way to connect is via my LinkedIn Profile.](https://www.linkedin.com/in/the-seanmiller/)
-
-### 📝 License
-
----
-
+I am always open to networking with and learning from developers, engineers, and mentors in the relevant fields. Thank you for reading my initial plan; I invite you to follow along as I turn it into a reality. [The best way to connect is via my LinkedIn Profile.](https://www.linkedin.com/in/the-seanmiller/)  
 > “Odysseus didn’t wait to be ready. He set sail, and he figured it out as he went.”
+---
+### 📝 License
+![License](https://img.shields.io/badge/License-MIT-blue.svg)  
+**Copyright © 2025 Sean Miller**
+[MIT license.](https://github.com/MillerTekWorks/my-tech-odyssey/blob/main/LICENSE.md)
