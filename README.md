@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Author:** | Sean Miller (@MillerTekWorks) |
-| **Version:** | 1.1 |
+| **Version:** | 1.2 |
 | **Status:** | 🚧 In Progress |
 | **Date:** | June 29, 2025 |
 
@@ -33,7 +33,7 @@ My **primary objective** is to become **job-ready by building a compelling portf
 
 The roadmap is divided into three major **phases**, each with specific focus areas, a primary objective, and key deliverables. Progress is tracked using [Issues](https://github.com/MillerTekWorks/my-tech-odyssey/issues) and a [Project Board](https://github.com/MillerTekWorks/my-tech-odyssey/projects).
 
-### Phase 1: Foundational Skills Acquisition (Target: Q4 2025)
+### Phase 1: Foundational Skills Acquisition (Target: Q1 2027)
 This phase is dedicated to building deep fluency in the required fundamentals.  
 🧠 **Focus:** Python, Git, Math, C++, Data Analysis
 
@@ -47,7 +47,7 @@ This phase is dedicated to building deep fluency in the required fundamentals.
 * **Project 1: The Sensor Data Analyst.** A project demonstrating mastery of data cleaning, manipulation, and visualization using Python and real-world sensor data.
     * **Repository:** 🔗 [Go to Project &raquo;](https://github.com/MillerTekWorks/sensor-data-analyst) *(Link will be active once project is created)*
 
-### 🤖 Phase 2: Specialization in Intelligent Systems (Target: Q2 2026)
+### 🤖 Phase 2: Specialization in Intelligent Systems (Target: Q3 2027)
 This phase involves applying the foundational skills to build the core components of an intelligent agent.  
 🔍 **Focus:** Machine Learning, Computer Vision, Robotics, Simulation 
 
@@ -63,7 +63,7 @@ This phase involves applying the foundational skills to build the core component
 * **Project 3A: The Simulated Home Bot.** Integration of the perception system with a simulated mobile robot that can navigate its environment in Gazebo.
     * **Repository:** 🔗 [Go to Project &raquo;](https://github.com/MillerTekWorks/simulated-home-bot) *(Link will be active once project is created)*
 
-### 🛠️ Phase 3: Physical Implementation & Capstone (Target: Q4 2026)
+### 🛠️ Phase 3: Physical Implementation & Capstone (Target: Q2 2028)
 This final phase bridges the gap from simulation to the real world.  
 🤝 **Focus:** Hardware Integration, Embedded Systems, Physical Robotics
 
